@@ -1,2 +1,2 @@
 # nand2tetrisCompiler
-Own Jack language Compiler writteen on python3
+Own Jack language compiler writteen in python3
